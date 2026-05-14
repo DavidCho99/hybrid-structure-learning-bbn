@@ -260,3 +260,9 @@ versus standard machine-learning baselines on the same medical dataset.
 - New algorithms should expose a `run_<method>()` function and return the same
   result structure used by the current method files.
 - Generated experiment outputs should go under `results/`.
+
+## Poster PDF
+
+The final project poster is available here:
+
+[Gwangseong Cho - TRUE Poster](docs/gwangseong-cho-true-poster.pdf)
