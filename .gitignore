@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# R local state and project-local package library
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+r_libs/
+
+# Local experiment outputs
+runs/
+api_runs/
+bbn_api_runs/
+tmp/
+*.log
+*_debug_train.csv
+debug_*.R
+
+# Matplotlib/cache artifacts
+mplconfig/

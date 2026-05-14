@@ -1,0 +1,4 @@
+Algorithm,Dataset,Train Size,Test Size,BIC,Structure Runtime (s),Total Runtime (s),Edge Count,Prediction Accuracy,Notes
+MMHC (bnlearn),Recategorized_Cleaned_Lung_Cancer_dataset.csv,153594,38399,-1528163.0048,3.4886,16.9972,7,0.7044,BIC computed on train split.
+H2PC (bnlearn),Recategorized_Cleaned_Lung_Cancer_dataset.csv,153594,38399,-1380635.0229,8.2177,23.9098,25,0.7226,BIC computed on train split.
+ARGES-like (adaptive triples),Recategorized_Cleaned_Lung_Cancer_dataset.csv,153594,38399,-1703922.1521,8.7062,21.4393,0,0.5595,Adaptive restricted GES ran in pcalg with fixedGaps from an HPC skeleton and adaptive='triples'. BIC computed on train split.

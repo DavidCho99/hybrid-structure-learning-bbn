@@ -1,0 +1,26 @@
+source,target
+Treatment Plan,Days from Diagnosis to Treatment
+Tumor Extent at Diagnosis,Regional Lymph Node Involvement
+Tumor Location,Tumor Laterality
+Tumor Location,Tumor Extent at Diagnosis
+Treatment Plan,Cancer Cell Type
+Treatment Plan,Metastatic Spread
+Regional Lymph Node Involvement,Treatment Plan
+Regional Lymph Node Involvement,Extent of Regional Lymph Node Surgery
+Metastatic Spread,Cause of Death
+Regional Lymph Node Involvement,Metastatic Spread
+Metastatic Spread,Cancer Cell Type
+Regional Lymph Node Involvement,Cause of Death
+Extent of Regional Lymph Node Surgery,Days from Diagnosis to Treatment
+Cancer Cell Type,Age
+Tumor Extent at Diagnosis,Treatment Plan
+Treatment Plan,Extent of Regional Lymph Node Surgery
+Tumor Extent at Diagnosis,Tumor Laterality
+Extent of Regional Lymph Node Surgery,Cause of Death
+Tumor Laterality,Metastatic Spread
+Extent of Regional Lymph Node Surgery,Age
+Extent of Regional Lymph Node Surgery,Cancer Cell Type
+Tumor Laterality,Regional Lymph Node Involvement
+Metastatic Spread,Extent of Regional Lymph Node Surgery
+Metastatic Spread,Days from Diagnosis to Treatment
+Cancer Cell Type,Cause of Death
